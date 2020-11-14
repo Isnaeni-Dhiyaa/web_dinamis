@@ -20,7 +20,7 @@
                 if($angka[0] % 2 != 0){
                     echo "Bilangan Ganjil";
                 }else{
-                    echo "error";
+                    echo "Bilangan Genap";
                 }
             ?>
         </td>
@@ -34,10 +34,10 @@
         <td>
             <?php
                 //Tulis jawaban disini
-                if($angka[1] % 2 == 0){
-                    echo "Bilangan Genap";
+                if($angka[1] % 2 != 0){
+                    echo "Bilangan Ganjil";
                 }else{
-                    echo "error";
+                    echo "Bilangan Genap";
                 }
             ?>
         </td>
@@ -54,7 +54,7 @@
                 if($angka[2] % 2 != 0){
                     echo "Bilangan Ganjil";
                 }else{
-                    echo "error";
+                    echo "Bilangan Genap";
                 }
             ?>
         </td>
@@ -68,10 +68,10 @@
         <td>                            
             <?php
                 //Tulis jawaban disini
-                if($angka[3] % 2 == 0){
-                    echo "Bilangan Genap";
+                if($angka[3] % 2 != 0){
+                    echo "Bilangan Ganjil";
                 }else{
-                    echo "error";
+                    echo "Bilangan Genap";
                 }
             ?>
         </td>
@@ -88,7 +88,7 @@
                 if($angka[4] % 2 != 0){
                     echo "Bilangan Ganjil";
                 }else{
-                    echo "error";
+                    echo "Bilangan Genap";
                 }
             ?>
         </td>
@@ -102,10 +102,10 @@
         <td>
             <?php
                 //Tulis jawaban disini
-                if($angka[5] % 2 == 0){
-                    echo "Bilangan Genap";
+                if($angka[5] % 2 != 0){
+                    echo "Bilangan Ganjil";
                 }else{
-                    echo "error";
+                    echo "Bilangan Genap";
                 }
             ?>
         </td>
@@ -122,7 +122,7 @@
                 if($angka[6] % 2 != 0){
                     echo "Bilangan Ganjil";
                 }else{
-                    echo "error";
+                    echo "Bilangan Genap";
                 }
             ?>
         </td>
@@ -136,10 +136,10 @@
         <td>
             <?php
                 //Tulis jawaban disini
-                if($angka[7] % 2 == 0){
-                    echo "Bilangan Genap";
+                if($angka[7] % 2 != 0){
+                    echo "Bilangan Ganjil";
                 }else{
-                    echo "error";
+                    echo "Bilangan Genap";
                 }
             ?>
         </td>
@@ -156,7 +156,7 @@
                 if($angka[8] % 2 != 0){
                     echo "Bilangan Ganjil";
                 }else{
-                    echo "error";
+                    echo "Bilangan Genap";
                 }
             ?>
         </td>
@@ -170,10 +170,10 @@
         <td>
             <?php
                 //Tulis jawaban disini
-                if($angka[9] % 2 == 0){
-                    echo "Bilangan Genap";
+                if($angka[9] % 2 != 0){
+                    echo "Bilangan Ganjil";
                 }else{
-                    echo "error";
+                    echo "Bilangan Genap";
                 }
             ?>
         </td>
